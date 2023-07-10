@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Rinkesh](https://github.com/Rinkesh375/Rinkesh-375.github.io.git)
+* 🖥️  See my portfolio at [Rinkesh](https://rinkesh375.github.io/)
 * ✉️  You can contact me at [rinkeshujjwal16@gmail.com](mailto:rinkeshujjwal16@gmail.com)
 
 ### Skills
