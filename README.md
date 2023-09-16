@@ -2,10 +2,10 @@
 <h2><p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
-</h2>
-================================================================================================================================
+
 
 Full Stack Web Developer
+</h2>
 -------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
 
