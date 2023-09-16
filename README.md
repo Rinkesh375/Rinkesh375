@@ -3,13 +3,21 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
 </h2>
- 
- <!-- <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.</h3>
-     <div align="center"> <a href="https://rinkesh375.github.io/" target="_blank">
-            <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rinkesh375.github.io/" />
-        </a> -->
+================================================================================================================================
+
+Full Stack Web Developer
+-------------
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rinkesh375&label=Profile%20views&color=0e75b6&style=flat" alt="Rinkesh375" /> </p>
+
+* 🌍  I'm based in India
+* 📫 I am currently learning MERN stack development.
+* 💬 Ask me about **JavaScript | HTML5 | CSS | ReactJS| MongoDB | ExpressJS | NodeJS | TypeScript | Redux**
+* 🖥️  See my portfolio at [Rinkesh](https://rinkesh375.github.io/)
+* ✉️  You can contact me at [rinkeshujjwal16@gmail.com](mailto:rinkeshujjwal16@gmail.com)
+
+
 <p align="left">
     <a href="https://github.com/rinkesh375">
         <img src="https://komarev.com/ghpvc/?username=rinkesh375&label=Profile%20views&color=0e75b6&style=flat" alt="rinkesh375" />
