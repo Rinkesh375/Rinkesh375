@@ -10,11 +10,6 @@
             <br />  <br />  
         <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rinkesh375.github.io/" />
         </a> -->
-
-   
-
-<!----------------------------------- Profile View Section ------------------------------------>
-
 <p align="left">
     <a href="https://github.com/rinkesh375">
         <img src="https://komarev.com/ghpvc/?username=rinkesh375&label=Profile%20views&color=0e75b6&style=flat" alt="rinkesh375" />
