@@ -84,6 +84,7 @@ I enjoy working in collaborative team environments, taking ownership of features
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkesh375&layout=compact&theme=dark" height="139" />
 </p>
 
-<img src="https://streak-stats.demolab.com/?user=rinkesh375&theme=dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=rinkesh375&theme=dark&cache_seconds=86400)
+
 
 <br>
