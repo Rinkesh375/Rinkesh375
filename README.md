@@ -1,105 +1,89 @@
-<h1 align="center">Hi 👋, I'm Rinkesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rinkesh</h1>
 
 <h3 align="center">
-Full Stack Web Developer | React • Next.js • Node.js • NestJS • AWS
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=10000&pause=1000&color=FFA000&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Web+Developer+with+2%2B+Years+of+Experience;Building+Scalable+Web+Applications+End+to+End" alt="Typing SVG" />
+  </a>
 </h3>
 
-<p align="center">
-Building scalable, high-performance web applications with real-world impact
+<h1>Full Stack Web Developer</h1>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
+
+
+* 🌍 Based in India  
+* 💼 Full Stack Web Developer with ~2 years of professional experience  
+* 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL, AWS, Docker**  
+* 🖥️ <a href="https://rinkesh375.github.io/" target="_blank">Portfolio</a>  
+* 📄<a href="https://drive.google.com/file/d/1ov5L11cxM2SkcXlStwXTVEC1sWlATVY9/view" target="_blank">Resume</a>  
+* ✉️ Contact: <a href="mailto:rinkeshujjwal16@gmail.com" target="_blank">Mail</a>
+
+
+
+<p align="left">
+  <a href="https://github.com/rinkesh375">
+    <img src="https://komarev.com/ghpvc/?username=rinkesh375&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/rinkesh375?tab=followers">
+    <img src="https://img.shields.io/github/followers/rinkesh375?label=Followers&style=social" />
+  </a>
 </p>
 
-<p align="center">
+<br>
+
+
+
+
+---
+
+### About Me
+
+I am a Full Stack Web Developer with around **2 years of hands-on experience** building production-grade web applications. I have worked on projects **end to end**, contributing to frontend architecture, backend APIs, performance optimization, and cloud deployment.
+
+I enjoy working in collaborative team environments, taking ownership of features, and contributing to discussions that lead to scalable and reliable solutions. I’m driven by learning, solving complex problems, and building products that create real impact for users.
+
+---
+
+### Tech Stack & Tools
+
+|                                                                JavaScript                                                                 |                                                                TypeScript                                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /> |
+
+|                                                                HTML5                                                                 |                                                                CSS3                                                                 |                                                                Bootstrap                                                                 |                                                                  Tailwind                                                                  |                                                               Chakra UI                                                               |                                                                Redux                                                                 |                                                                React                                                                 |                                                                Next.js                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" /> |
+
+|                                      TanStack                                       |                                      shadcn/ui                                       |                                                                Node.js                                                                |                                                                NestJS                                                                 |                                                                Express                                                                 |                                                                MongoDB                                                                 |                                                                PostgreSQL                                                                 |                                                                MySQL                                                                 |
+| :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/71461830?s=200&v=4" width="36" /> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /> |
+
+|                                                                AWS                                                                 |                                                                Docker                                                                 |                                     Netlify                                     |                                                                Firebase                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> | <img src="https://www.netlify.com/v3/img/components/logomark.png" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" /> |
+
+---
+
+<h2><i>Let's Connect</i></h2>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/rinkesh-b489961a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=black"/>
   </a>
   <a href="https://rinkesh375.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"/>
   </a>
-  <a href="mailto:rinkeshujjwal16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
----
+<br>
 
-## 👨‍💻 About Me
+<h2><i>My GitHub Stats</i></h2>
 
-I’m a **Full Stack Web Developer with ~2 years of professional experience**, currently working at **Epesign Technologies**. I’ve built and maintained **production-grade applications end to end**, taking ownership from frontend to backend, performance optimization, and cloud deployment.
-
-I’m comfortable working independently, learning from documentation and real-world debugging, and collaborating closely with teams. I enjoy solving complex problems, improving system performance, and building products that scale to thousands of users.
-
-- 🌍 Based in India  
-- 🧠 Strong in problem-solving & performance optimization  
-- 🚀 Passionate about building impactful products  
-- 📫 Reach me at **rinkeshujjwal16@gmail.com**
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rinkesh375&show_icons=true&count_private=true&theme=dark" height="139" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkesh375&layout=compact&theme=dark" height="139" />
 </p>
 
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=rinkesh375&theme=dark" />
 
-### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-### Cloud & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
-
----
-
-## 🧠 What I Do Well
-
-- Build **end-to-end full-stack applications**
-- Optimize performance (bundle size, API calls, rendering)
-- Design clean and scalable APIs
-- Work with cloud services (AWS S3, deployments)
-- Learn new technologies quickly using documentation & real-world debugging
-- Stay calm and effective during production issues
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinkesh375&show_icons=true&count_private=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkesh375&layout=compact&theme=dark" height="160"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=rinkesh375&theme=dark"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to discussing **full-stack roles**, **challenging problems**, or **interesting product ideas**.
-
-📧 **Email:** rinkeshujjwal16@gmail.com  
-🌐 **Portfolio:** https://rinkesh375.github.io  
-💼 **LinkedIn:** https://www.linkedin.com/in/rinkesh-b489961a8/
-
+<br>
