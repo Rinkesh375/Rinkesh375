@@ -15,8 +15,8 @@
 * 💼 Full Stack Web Developer with ~2 years of professional experience  
 * 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL, AWS, Docker**  
 * 🖥️ <a href="https://rinkesh375.github.io/" target="_blank">Portfolio</a>  
-* 📄<a href="https://drive.google.com/file/d/1ov5L11cxM2SkcXlStwXTVEC1sWlATVY9/view" target="_blank">Resume</a>  
-* ✉️ Contact: <a href="mailto:rinkeshujjwal16@gmail.com" target="_blank">Mail</a>
+* 📄 <a href="https://drive.google.com/file/d/1ov5L11cxM2SkcXlStwXTVEC1sWlATVY9/view" target="_blank">Resume</a>  
+* ✉️ <a href="mailto:rinkeshujjwal16@gmail.com" target="_blank">Mail</a>
 
 
 
