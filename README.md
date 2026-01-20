@@ -84,4 +84,4 @@ I enjoy collaborating in team environments, owning features, and building scalab
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkesh375&layout=compact&theme=dark" height="139" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rinkesh375&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=rinkesh375&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
