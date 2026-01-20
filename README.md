@@ -10,15 +10,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1593595/screenshots/5725252/media/e9f9ea5544e27c43d88ba9945eb9403a.jpg?resize=1000x750&vertical=center">
 
-
-* 🌍 Based in India  
-* 💼 Full Stack Web Developer with ~2 years of professional experience  
-* 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL, AWS, Docker**  
-* 🖥️ <a href="https://rinkesh375.github.io/" target="_blank">Portfolio</a>  
-* 📄 <a href="https://drive.google.com/file/d/1ov5L11cxM2SkcXlStwXTVEC1sWlATVY9/view" target="_blank">Resume</a>  
-* ✉️ <a href="mailto:rinkeshujjwal16@gmail.com" target="_blank">Mail</a>
-
-
+* 🌍 Based in India
+* 💼 Full Stack Web Developer with 2 years of professional experience
+* 💬 Ask me about **React.js, Next.js, Zustand, Redux, Node.js, NestJS, TypeScript, MongoDB, PostgreSQL, AWS, Docker**
+* 🖥️ [Portfolio](https://rinkesh375.github.io/)
+* 📄 [Resume](https://drive.google.com/file/d/1ov5L11cxM2SkcXlStwXTVEC1sWlATVY9/view)
+* ✉️ [Mail](mailto:rinkeshujjwal16@gmail.com)
 
 <p align="left">
   <a href="https://github.com/rinkesh375">
@@ -29,42 +26,45 @@
   </a>
 </p>
 
-<br>
+---
 
+## About Me
 
+I am a Full Stack Web Developer with **~2 years of hands-on experience** building production-grade web applications. I’ve worked on projects **end to end**, covering frontend architecture, backend APIs, performance optimization, and cloud deployment.
 
+I enjoy collaborating in team environments, owning features, and building scalable solutions that create real user impact.
 
 ---
 
-### About Me
+## Tech Stack & Tools
 
-I am a Full Stack Web Developer with around **2 years of hands-on experience** building production-grade web applications. I have worked on projects **end to end**, contributing to frontend architecture, backend APIs, performance optimization, and cloud deployment.
+### Languages
 
-I enjoy working in collaborative team environments, taking ownership of features, and contributing to discussions that lead to scalable and reliable solutions. I’m driven by learning, solving complex problems, and building products that create real impact for users.
-
----
-
-### Tech Stack & Tools
-
-|                                                                JavaScript                                                                 |                                                                TypeScript                                                                 |
+|                                                                 JavaScript                                                                |                                                                 TypeScript                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /> |
 
-|                                                                HTML5                                                                 |                                                                CSS3                                                                 |                                                                Bootstrap                                                                 |                                                                  Tailwind                                                                  |                                                               Chakra UI                                                               |                                                                Redux                                                                 |                                                                React                                                                 |                                                                Next.js                                                                |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" /> |
+### Frontend
 
-|                                      TanStack                                       |                                      shadcn/ui                                       |                                                                Node.js                                                                |                                                                NestJS                                                                 |                                                                Express                                                                 |                                                                MongoDB                                                                 |                                                                PostgreSQL                                                                 |                                                                MySQL                                                                 |
-| :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/71461830?s=200&v=4" width="36" /> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /> |
+|                                                                 HTML5                                                                |                                                                 CSS3                                                                |                                                                 Bootstrap                                                                |                                                                  Tailwind                                                                  |                                                               Chakra UI                                                               |                                         Zustand                                         |                                                                 Redux                                                                |                                                                 React                                                                |                                                                Next.js                                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" /> |
 
-|                                                                AWS                                                                 |                                                                Docker                                                                 |                                     Netlify                                     |                                                                Firebase                                                                 |
+### Backend & Databases
+
+|                                                                Node.js                                                                |                                                                 NestJS                                                                |                                                                 Express                                                                |                                                                 MongoDB                                                                |                                                                 PostgreSQL                                                                |                                                                 MySQL                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /> |
+
+### Cloud & DevOps
+
+|                                                                 AWS                                                                |                                                                 Docker                                                                |                                     Netlify                                     |                                                                 Firebase                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> | <img src="https://www.netlify.com/v3/img/components/logomark.png" width="36" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" /> |
 
 ---
 
-<h2><i>Let's Connect</i></h2>
+## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rinkesh-b489961a8/">
@@ -75,16 +75,13 @@ I enjoy working in collaborative team environments, taking ownership of features
   </a>
 </p>
 
-<br>
+---
 
-<h2><i>My GitHub Stats</i></h2>
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rinkesh375&show_icons=true&count_private=true&theme=dark" height="139" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkesh375&layout=compact&theme=dark" height="139" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rinkesh375&theme=dark&cache_seconds=86400)
-
-
-<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=rinkesh375\&theme=dark\&cache_seconds=86400)
